@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jian Zheng, a PhD candidate at University of Maryland, College Park. 
 - 👀 I’m interested in digital well-being, work-life balance, and generally humam-computer interaction.
-- 🌱 I’m currently learning reveal.js.
 - 💞️ I’m looking to collaborate on dynamically monitoring problematic smartphone usage. 
 - 📫 How to reach me: jzheng23@umd.edu
 
