@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jian Zheng, a PhD candidate at University of Maryland, College Park. 
-- 👀 I’m interested in digital well-being, work-life balance, and generally humam-computer interaction.
-- 💞️ I’m looking to collaborate on dynamically monitoring problematic smartphone usage. 
-- 📫 How to reach me: jzheng23@umd.edu
+- I’m Jian Zheng, a PhD candidate at University of Maryland, College Park. 
+- I’m interested in digital well-being, problematic smartphone usage, and personal informatics.
+- jzheng23@umd.edu
+- jzheng.net
 
 <!---
 jzheng23/jzheng23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
